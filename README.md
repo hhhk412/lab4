@@ -107,6 +107,7 @@ lab4/
 - `tests/test_physics.py` — проверка корректности расчёта расстояний, переноса границ и столкновений.
 
 **Демонстрация работы:**
+
 <img width="798" height="628" alt="image" src="https://github.com/user-attachments/assets/ae7f2317-ff84-4d6b-aa08-493f9f0ebd1c" />
 <img width="796" height="626" alt="image" src="https://github.com/user-attachments/assets/b5f2686a-e972-4f61-aacf-fcc7cd069327" />
 
